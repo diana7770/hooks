@@ -1,0 +1,19 @@
+{
+  "todoList": [
+    {
+      "name": "Do Algebra HW",
+      "date": "10.10.2024",
+      "isDone": true
+    },
+    {
+      "name": "Do English HW",
+      "date": "08.10.2024",
+      "isDone": false
+    },
+    {
+      "name": "Do It HW",
+      "date": "04.10.2024",
+      "isDone": true
+    }
+  ]
+}
